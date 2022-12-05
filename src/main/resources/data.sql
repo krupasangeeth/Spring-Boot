@@ -1,0 +1,23 @@
+-- create table person
+-- (
+-- id integer not null,
+-- primary key(id)
+-- );
+
+-- insert into person (id) values(1);
+-- insert into person (id) values(2);
+-- insert into person (id) values(3);
+-- insert into person (id) values(4);
+-- insert into person (id) values(5);
+-- insert into person (id) values(6);
+-- insert into person (id) values(7);
+-- insert into person (id) values(8);
+-- insert into person (id) values(9);
+
+-- insert into EmployeeDB (ID ,EMPLOYEE_LOCATION ,EMPLOYEE_NAME ,EMPLOYEE_SALARY ) values(2,'Ben','Sangeeth',2000);
+-- insert into EmployeeDB (ID ,EMPLOYEE_LOCATION ,EMPLOYEE_NAME ,EMPLOYEE_SALARY ) values(3,'Hyd','Ram',3000);
+-- insert into EmployeeDB (ID ,EMPLOYEE_LOCATION ,EMPLOYEE_NAME ,EMPLOYEE_SALARY ) values(4,'Ben','Raju',4000);
+-- insert into EmployeeDB (ID ,EMPLOYEE_LOCATION ,EMPLOYEE_NAME ,EMPLOYEE_SALARY ) values(5,'Hyd','Mouli',5000);
+-- insert into EmployeeDB (ID ,EMPLOYEE_LOCATION ,EMPLOYEE_NAME ,EMPLOYEE_SALARY ) values(6,'Ben','Shekar',6000);
+-- insert into EmployeeDB (ID ,EMPLOYEE_LOCATION ,EMPLOYEE_NAME ,EMPLOYEE_SALARY ) values(7,'Hyd','Suresh',7000);
+-- insert into EmployeeDB (ID ,EMPLOYEE_LOCATION ,EMPLOYEE_NAME ,EMPLOYEE_SALARY ) values(8,'Ben','Sudheer',8000);

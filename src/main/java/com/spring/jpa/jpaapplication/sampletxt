@@ -1,0 +1,22 @@
+
+@SpringBootApplication
+public class JpaApplication implements CommandLineRunner {
+
+	private org.jboss.logging.Logger logger=LoggerFactory.logger(this.getClass());
+	
+	@Autowired
+	EmployeeRepo er;
+
+	public static void main(String[] args) {
+		SpringApplication.run(JpaApplication.class, args);
+
+		
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+		logger.infof("{}",er.findAll());
+		
+	}
+
+}
